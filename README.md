@@ -9,11 +9,11 @@ By Qiang Wang, Jin Gao, Junliang Xing, Mengdan Zhang, Weiming Hu
 > Discriminant Correlation Filters (DCF) based methods now become a kind of dominant approach to online object tracking. The features used in these methods, however, are either based on hand-crafted features like HoGs, or convolutional features trained independently from other tasks like image classification. In this work, we present an *end-to-end lightweight* network architecture, namely **DCFNet**, to learn the convolutional features and perform the correlation tracking process simultaneously.
 
 ## Contents
-1. [Requirements](#Requirements)
-2. [Tracking](#Tracking)
-3. [Training](#Training)
-4. [Results](#Results)
-5. [Citation](#Citing-DCFNet)
+1. [Requirements](#requirements)
+2. [Tracking](#tracking)
+3. [Training](#training)
+4. [Results](#results)
+5. [Citation](#citing-dcfnet)
 
 ## Requirements
 
