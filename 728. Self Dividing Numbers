@@ -1,0 +1,22 @@
+class Solution {
+public:
+    vector<int> selfDividingNumbers(int left, int right) {
+        int temp=left;
+        int n=right;
+        int bit,i,j;
+        while(n){
+            bit++;
+            n/=10;
+        }
+        
+        for(i=left;i<=right;i++){
+            
+            for(j=bit;j>0;j--){
+               if(i%(pow(10,j))<10){
+                   
+            }
+                
+            
+        }
+    }
+};
